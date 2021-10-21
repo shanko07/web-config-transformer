@@ -1,5 +1,4 @@
 import xml.etree.ElementTree as ET
-import datetime as dt
 import argparse
 
 parser = argparse.ArgumentParser(usage="%(prog)s [OPTION]", description="Modify a supplied web.config file to disable .NET event validation")
